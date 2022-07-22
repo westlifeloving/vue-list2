@@ -1,4 +1,4 @@
-# vuelist2
+# vuelist2知道创宇实习demo（通过axios获取jsonplaceholder的todos实现删除，新增和搜索）
 
 ## Project setup
 ```
